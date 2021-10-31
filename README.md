@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zezde1012(oussma)
-- 👀 I’m interested in everything that includes coding and programming.
-- 🌱 I’m currently learning python , php, html5 and css , javascript and MA(mobile applications).
+- 👀 I’m interested in everything that includes networks and security.
 - 💞️ I’m looking to collaborate on anything basicaly.
 - 📫 How to reach me chetatoussama@gmail.com
 
